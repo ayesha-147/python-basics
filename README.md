@@ -1,3 +1,3 @@
 # python-basics
-My Python learning fileS
+My Python learning files
 Updated python notebook
